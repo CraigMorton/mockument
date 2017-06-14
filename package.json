@@ -1,6 +1,6 @@
 {
   "name": "mockument",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "A utility for Jest to create a mocked document.body from an HTML file",
   "author": "Craig Morton",
   "license": "ISC",
