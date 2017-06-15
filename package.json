@@ -1,7 +1,7 @@
 {
   "name": "mockument",
   "version": "2.0.0",
-  "description": "A utility for Jest to create a mocked document.body from an HTML file",
+  "description": "A utility for Jest to generate a mock document.body from an HTML file",
   "author": "Craig Morton",
   "license": "ISC",
   "repository": {
@@ -24,7 +24,9 @@
     "jest",
     "mock",
     "html",
-    "document"
+    "document",
+    "file",
+    "testing"
   ],
   "peerDependencies": {
     "jest": "^20.0.4"
